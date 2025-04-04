@@ -1,5 +1,9 @@
-check the file names and directories properly 
-need to run app.py 
+Flow of execution 
+
+1. check the file names and directories properly 
+2. run the career_model.py first to load the model
+3. Then run the app.py
+4. Answer the questions to get the career guidance
 
 Project Overview: Elevate U - AI-Based Career Guidance App
 
