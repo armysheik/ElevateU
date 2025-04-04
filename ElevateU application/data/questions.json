@@ -1,0 +1,67 @@
+{
+    "cognitive_abilities": {
+      "logical_reasoning": [
+        {"question": "If all cats are mammals and some mammals are dogs, are all cats dogs?", "options": ["Yes", "No", "Cannot Determine"], "answer": "Cannot Determine"},
+        {"question": "What comes next in the pattern: 3, 6, 12, 24, ?", "options": ["36", "48", "72", "96"], "answer": "48"},
+        {"question": "Find the missing number: 5, 10, 20, ?, 80", "options": ["30", "35", "40", "50"], "answer": "40"},
+        {"question": "A is the brother of B. B is the sister of C. C is the son of D. What is the relation of D to A?", "options": ["Father", "Mother", "Uncle", "Cannot Determine"], "answer": "Cannot Determine"},
+        {"question": "Which word is the odd one out? Apple, Mango, Banana, Carrot", "options": ["Apple", "Mango", "Banana", "Carrot"], "answer": "Carrot"},
+        {"question": "What is the next letter in this sequence? J, F, M, A, M, ?", "options": ["J", "A", "S", "O"], "answer": "J"},
+        {"question": "Which number does not belong? 16, 25, 36, 50, 64", "options": ["25", "36", "50", "64"], "answer": "50"},
+        {"question": "If a bus travels 90 km in 3 hours, what is its speed?", "options": ["20 km/h", "30 km/h", "40 km/h", "50 km/h"], "answer": "30 km/h"},
+        {"question": "What is the missing number? 1, 3, 6, 10, 15, ?", "options": ["18", "19", "20", "21"], "answer": "21"},
+        {"question": "If today is Thursday, what day was it 3 days ago?", "options": ["Monday", "Tuesday", "Wednesday", "Sunday"], "answer": "Monday"}
+      ]
+    },
+  
+    "personality_traits": {
+      "big_five": [
+        {"question": "I am comfortable in social situations.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I prefer routines over spontaneity.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I am open to trying new experiences.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I pay close attention to details in my work.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I get anxious in unfamiliar situations.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I trust people easily.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I enjoy leading a group of people.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I prefer working alone rather than in teams.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I am comfortable taking risks.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I usually plan everything in advance.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]}
+      ]
+    },
+  
+    "career_interests": {
+      "career_interest_survey": [
+        {"question": "I enjoy solving mathematical problems.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I like working with my hands to build things.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I prefer working in a structured office environment.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I am interested in creative fields like writing or design.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I would enjoy teaching or training others.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I like conducting research and analyzing data.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I enjoy working outdoors rather than indoors.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I like working with technology and computers.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I am passionate about helping others.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I enjoy managing and leading people.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]}
+      ]
+    },
+  
+    "work_preferences": {
+      "leadership_teamwork": [
+        {"question": "I enjoy taking leadership roles in projects.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I prefer working independently rather than in teams.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I find it easy to make quick decisions.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I enjoy mentoring and guiding others.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I work well under pressure.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]}
+      ]
+    },
+  
+    "emotional_psychological_factors": {
+      "resilience_confidence": [
+        {"question": "I recover quickly from setbacks.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I have high self-confidence in my abilities.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I stay calm in stressful situations.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I can handle criticism well.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]},
+        {"question": "I keep a positive mindset even in tough situations.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"]}
+      ]
+    }
+  }
+  
